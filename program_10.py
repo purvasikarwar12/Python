@@ -11,5 +11,5 @@ print('You Enter:', myswitch.get(num, "Invalid Number"))
 
 #OUTPUT:-
 
- #Enter any no. (1 to 5): 2
- #You Enter: TWO
+#Enter any no. (1 to 5): 2
+#You Enter: TWO
